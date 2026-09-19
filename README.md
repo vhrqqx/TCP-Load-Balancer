@@ -2,7 +2,7 @@
 
 Một hệ thống Load Balancer và Reverse Proxy hoạt động ở Tầng 4 (Transport Layer - TCP) được viết hoàn toàn bằng C++ thuần túy trên nền tảng Windows (sử dụng Winsock2 API) mà không phụ thuộc vào các thư viện mạng bên thứ ba phức tạp. 
 
-Project này được xây dựng nhằm hiểu sâu về cơ chế I/O mạng, xử lý đa luồng đồng thời (Multi-threading), và các giải thuật điều phối hạ tầng mạng cốt lõi.
+Project này được xây dựng nhằm phục vụ mục đích học tập của mình
 
 ---
 
